@@ -37,10 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">⚡️Always curious to learn more about web development, I'm just getting started and I'm determined to become a full-stack web developer ! <br>More to come in a near future 👀</p>
 
 ###
