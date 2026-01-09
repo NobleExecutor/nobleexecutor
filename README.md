@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/lmVJm3U8PwEAAAAd/arf-bark.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/lmVJm3U8PwEAAAAd/arf-bark.gif"  />
 
 ###
 
@@ -16,6 +16,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="center">🧑‍💻 I'm currently learning :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
