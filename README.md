@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">👾 These are the languages I work with :</h3>
+<h3 align="center">👾 These are the languages / frameworks I work with :</h3>
 
 ###
 
