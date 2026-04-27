@@ -61,3 +61,7 @@
 <p align="left">⚡️Always curious to learn more about web development, I'm just getting started and I'm determined to become a full-stack web developer ! <br>More to come in a near future 👀</p>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleExecutor&layout=compact&theme=tokyonight" alt="Most used Langs">
+</div>
