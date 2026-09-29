@@ -66,5 +66,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleExecutor&layout=compact&theme=tokyonight" alt="Most used Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleExecutor&layout=compact&theme=tokyonight&v=1" alt="Most used Langs">
 </div>
